@@ -1,0 +1,16 @@
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\bin\Debug\net5.0\DemoLab.exe
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\bin\Debug\net5.0\DemoLab.deps.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\bin\Debug\net5.0\DemoLab.runtimeconfig.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\bin\Debug\net5.0\DemoLab.runtimeconfig.dev.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\bin\Debug\net5.0\DemoLab.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\bin\Debug\net5.0\ref\DemoLab.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\bin\Debug\net5.0\DemoLab.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\obj\Debug\net5.0\DemoLab.csprojAssemblyReference.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\obj\Debug\net5.0\DemoLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\obj\Debug\net5.0\DemoLab.AssemblyInfoInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\obj\Debug\net5.0\DemoLab.AssemblyInfo.cs
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\obj\Debug\net5.0\DemoLab.csproj.CoreCompileInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\obj\Debug\net5.0\DemoLab.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\obj\Debug\net5.0\ref\DemoLab.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\obj\Debug\net5.0\DemoLab.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\DemoLab\obj\Debug\net5.0\DemoLab.genruntimeconfig.cache

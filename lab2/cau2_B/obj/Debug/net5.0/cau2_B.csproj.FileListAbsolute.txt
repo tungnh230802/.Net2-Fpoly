@@ -1,0 +1,16 @@
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\bin\Debug\net5.0\cau2_B.exe
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\bin\Debug\net5.0\cau2_B.deps.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\bin\Debug\net5.0\cau2_B.runtimeconfig.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\bin\Debug\net5.0\cau2_B.runtimeconfig.dev.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\bin\Debug\net5.0\cau2_B.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\bin\Debug\net5.0\ref\cau2_B.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\bin\Debug\net5.0\cau2_B.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\obj\Debug\net5.0\cau2_B.csprojAssemblyReference.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\obj\Debug\net5.0\cau2_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\obj\Debug\net5.0\cau2_B.AssemblyInfoInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\obj\Debug\net5.0\cau2_B.AssemblyInfo.cs
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\obj\Debug\net5.0\cau2_B.csproj.CoreCompileInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\obj\Debug\net5.0\cau2_B.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\obj\Debug\net5.0\ref\cau2_B.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\obj\Debug\net5.0\cau2_B.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\lab2\cau2_B\obj\Debug\net5.0\cau2_B.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\obj\Debug\net5.0\lab6.csprojAssemblyReference.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\obj\Debug\net5.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\obj\Debug\net5.0\lab6.AssemblyInfoInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\obj\Debug\net5.0\lab6.AssemblyInfo.cs
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\obj\Debug\net5.0\lab6.csproj.CoreCompileInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\bin\Debug\net5.0\lab6.exe
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\bin\Debug\net5.0\lab6.deps.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\bin\Debug\net5.0\lab6.runtimeconfig.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\bin\Debug\net5.0\lab6.runtimeconfig.dev.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\bin\Debug\net5.0\lab6.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\bin\Debug\net5.0\ref\lab6.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\bin\Debug\net5.0\lab6.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\obj\Debug\net5.0\lab6.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\obj\Debug\net5.0\ref\lab6.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\obj\Debug\net5.0\lab6.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab6\lab6\obj\Debug\net5.0\lab6.genruntimeconfig.cache

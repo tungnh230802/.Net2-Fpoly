@@ -1,0 +1,16 @@
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\bin\Debug\net5.0\DemoSlide.exe
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\bin\Debug\net5.0\DemoSlide.deps.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\bin\Debug\net5.0\DemoSlide.runtimeconfig.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\bin\Debug\net5.0\DemoSlide.runtimeconfig.dev.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\bin\Debug\net5.0\DemoSlide.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\bin\Debug\net5.0\ref\DemoSlide.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\bin\Debug\net5.0\DemoSlide.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\obj\Debug\net5.0\DemoSlide.csprojAssemblyReference.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\obj\Debug\net5.0\DemoSlide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\obj\Debug\net5.0\DemoSlide.AssemblyInfoInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\obj\Debug\net5.0\DemoSlide.AssemblyInfo.cs
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\obj\Debug\net5.0\DemoSlide.csproj.CoreCompileInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\obj\Debug\net5.0\DemoSlide.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\obj\Debug\net5.0\ref\DemoSlide.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\obj\Debug\net5.0\DemoSlide.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab8\DemoSlide\obj\Debug\net5.0\DemoSlide.genruntimeconfig.cache

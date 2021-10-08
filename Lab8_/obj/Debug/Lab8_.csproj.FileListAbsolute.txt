@@ -1,0 +1,7 @@
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\Lab8_\bin\Debug\Lab8_.exe.config
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\Lab8_\bin\Debug\Lab8_.exe
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\Lab8_\bin\Debug\Lab8_.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\Lab8_\obj\Debug\Lab8_.csprojAssemblyReference.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\Lab8_\obj\Debug\Lab8_.csproj.CoreCompileInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\Lab8_\obj\Debug\Lab8_.exe
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\Lab8_\obj\Debug\Lab8_.pdb

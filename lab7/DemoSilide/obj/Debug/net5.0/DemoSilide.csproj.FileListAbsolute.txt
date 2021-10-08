@@ -1,0 +1,16 @@
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\bin\Debug\net5.0\DemoSilide.exe
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\bin\Debug\net5.0\DemoSilide.deps.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\bin\Debug\net5.0\DemoSilide.runtimeconfig.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\bin\Debug\net5.0\DemoSilide.runtimeconfig.dev.json
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\bin\Debug\net5.0\DemoSilide.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\bin\Debug\net5.0\ref\DemoSilide.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\bin\Debug\net5.0\DemoSilide.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\obj\Debug\net5.0\DemoSilide.csprojAssemblyReference.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\obj\Debug\net5.0\DemoSilide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\obj\Debug\net5.0\DemoSilide.AssemblyInfoInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\obj\Debug\net5.0\DemoSilide.AssemblyInfo.cs
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\obj\Debug\net5.0\DemoSilide.csproj.CoreCompileInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\obj\Debug\net5.0\DemoSilide.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\obj\Debug\net5.0\ref\DemoSilide.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\obj\Debug\net5.0\DemoSilide.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\worklab\lab7\DemoSilide\obj\Debug\net5.0\DemoSilide.genruntimeconfig.cache
