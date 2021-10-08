@@ -1,0 +1,7 @@
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\ASMGD1\obj\Debug\ASMGD1.csproj.CoreCompileInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\ASMGD1\bin\Debug\ASMGD1.exe.config
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\ASMGD1\bin\Debug\ASMGD1.exe
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\ASMGD1\bin\Debug\ASMGD1.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\ASMGD1\obj\Debug\ASMGD1.exe
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\ASMGD1\obj\Debug\ASMGD1.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\c#\c#_2\ASMGD1\obj\Debug\ASMGD1.csproj.AssemblyReference.cache
